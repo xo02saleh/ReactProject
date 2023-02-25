@@ -1,4 +1,3 @@
-Details.js
 import React, { Component } from 'react';
 import Header from '../../common/header/Header';
 import Typography from '@material-ui/core/Typography';
