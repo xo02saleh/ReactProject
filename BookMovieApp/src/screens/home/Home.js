@@ -1,4 +1,3 @@
-Home.js
 import React, { Component } from 'react';
 import './Home.css';
 import Header from '../../common/header/Header';
